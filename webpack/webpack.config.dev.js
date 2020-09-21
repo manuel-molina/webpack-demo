@@ -1,3 +1,4 @@
+// It is the first configuration file. NOT NEEDED ANIMORE
 const path = require('path');
 const loaders = require('./loaders');
 const cssplugins = require('./css.plugins.config');
